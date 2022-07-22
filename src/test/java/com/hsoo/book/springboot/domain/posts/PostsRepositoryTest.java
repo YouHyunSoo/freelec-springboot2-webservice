@@ -1,4 +1,4 @@
-package com.hsoo.book.springboot.web.domain.posts;
+package com.hsoo.book.springboot.domain.posts;
 
 import com.hsoo.book.springboot.domain.posts.Posts;
 import com.hsoo.book.springboot.domain.posts.PostsRepository;
